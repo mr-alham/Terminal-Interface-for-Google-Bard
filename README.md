@@ -11,7 +11,10 @@ This script provides a terminal interface for interacting with Google_Bard. It a
 Before running the script, make sure you have the following:
 
 - Python 3 installed on your system
-- The Bard library installed (`pip install bardapi`)
+- The Bard library installed 
+    ```zsh
+    $ pip install bardapi
+    ```
 - Valid session Id
 
     Go to [https://bard.google.com/](https://bard.google.com/)
